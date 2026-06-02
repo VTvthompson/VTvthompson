@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning javascript, css, html5
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me vancethompson14@icloud.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 VTvthompson/VTvthompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
