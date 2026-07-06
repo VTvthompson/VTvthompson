@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VTvthompson
 - 👀 I’m interested in networking and contributing
 - 🌱 I’m currently learning ML, Big Data, spark
-- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me vancethompson14@icloud.com
 
 
